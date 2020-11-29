@@ -3,7 +3,6 @@
 在CMAKE过程中有很多包无法下载或者下载速度奇慢，所有包可以从这里获取。
 
 更新了原repository中缺少vgg_generated_48.i的问题。
->>>>>>> a543ec46dabc5421856739fb841110df4d148a57
 
 ### ippicv_linux_20151201
 
